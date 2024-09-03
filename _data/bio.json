@@ -6,7 +6,7 @@
     "email": "reon@hawaii.edu",
     "phone": "831-287-4372",
     "website": "https://ReoN-00.github.io",
-    "summary": "I am a Junior majoring in Computer Science at University of Hawaii at Manoa. I am aiming to work in a gaming industry.",
+    "summary": "I am a Junior majoring in Computer Science at the University of Hawaii at Manoa, with a strong passion for game development and a goal to contribute to the gaming industry.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ReoN-00", "url": "http://github.com/ReoN-00" },
@@ -26,7 +26,7 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "Windows", "MacOS", "Git/GitHub", "Microsoft Office" ]
-    }
+    },
     {
       "name": "Languages",
       "keywords": [ "English", "Japanese" ]
@@ -50,7 +50,7 @@
       "website": "",
       "startDate": "Feb 2023",
       "endDate": "Present",
-      "summary": "Learned communication skills by serving to guests",
+      "summary": "Learned communication skills by serving guests.",
       "highlights": ["Managing reservations by taking phone calls or texts",
         "Making sure that store is ready to welcome guests"
       ]
@@ -61,7 +61,7 @@
       "website": "",
       "startDate": "Jul 2022",
       "endDate": "Sep 2023",
-      "summary": "Learned communication skills by serving to guests",
+      "summary": "Learned communication skills by serving guests.",
       "highlights": [
       ]
     }
@@ -76,7 +76,7 @@
       "summary": "Helped church distribute food to people in need",
       "highlights": [
         "Navigated cars to form a line",
-        "Communicated with people who visited to see if they needed any kind of help with problem from COVID"
+        "Communicated with people who visited to see if they needed any kind of help with issues caused by COVID-19."
       ]
     }
   ],
