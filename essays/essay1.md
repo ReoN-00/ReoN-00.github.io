@@ -10,14 +10,14 @@ labels:
   - Learning
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/WIP Quote.jpg">
-Choosing a career is one of the most important decisions in life. It can shape how we live and grow as people. My journey started in Fukuoka, Japan, where I was born. Everything changed when I moved to Hawaii during my freshman year of high school. Moving to a new country was hard, and it made me think a lot about what I wanted for my future.
+Choosing a career is a big decision that affects our lives in many ways. My journey started in Fukuoka, Japan, but took a big turn when I moved to Hawaii during my freshman year of high school. Moving to a new country was hard, and it made me think a lot about what I wanted to do in the future.
 
-Adjusting to a different culture, language, and school system was not easy. But during this time, I discovered coding. Coding quickly became something I loved because it allowed me to create and build things. This new interest made me start thinking about a career in technology.
+When I moved, I had to get used to a new culture, language, and school system. During this time, I found a passion for coding. Coding let me create things which was exciting. As I learned more, I began thinking about working in technology in Japan, where innovation is strong.
 
-As I continued to learn more about coding, I began to think about where I wanted to use these skills. Japan, with its advanced technology, felt like the right place for me. The idea of going back to Japan and working in a field that helps push technology forward is exciting. I can imagine myself being part of projects that make a difference in my home country.
+However, I also have some doubts. Japanese companies have high standards and can be very demanding. I sometimes wonder if I have the skills needed to meet those expectations. This worry is increased because my current experience with JavaScript is not so good. Learning TypeScript, which is built on JavaScript, feels like starting from scratch for me.
 
-However, I also have some worries. Moving back to Japan for work comes with challenges. Japanese companies have high standards, and sometimes I wonder if I have the skills they are looking for. The work culture in Japan is also known for being very demanding, with long hours and a lot of pressure. These things make me doubt whether I can handle working there.
+Workouts of the Day (WODs), which simulates real-world coding problems under time pressure. This can be stressful for me because I prefer having more time to think before I start typing. Despite this, WODs are a good way to practice coding skills and solve problems quickly.
 
-Even though I have doubts, I know that choosing a career is not just about having the right skills. It’s also about having passion, being strong, and being able to adapt to new situations. My journey from Fukuoka to Hawaii has given me a different way of seeing things, and I believe this will help me in any workplace, whether in Japan or somewhere else.
+Learning TypeScript and doing WODs have been tough but helpful. TypeScript has improved my coding skills and taught me about modern JavaScript features, while WODs have helped me get better at solving problems quickly. Even though I’m unsure about working in Japan, these experiences have shown me that with hard work and learning, I can face these challenges and succeed in my career.
 
-My goal is to keep learning and growing as I go through this journey. The road might be difficult, but I am determined to keep moving forward. I believe that with hard work and the right attitude, I can find a successful and fulfilling career in the tech industry, no matter where it takes me. This journey is about more than just finding a job; it’s about discovering what I am capable of and what I want to achieve in life.
+My move from Fukuoka to Hawaii has given me a special perspective that I can use wherever I work, whether in Japan or elsewhere. The path may be difficult, but with the skills I’m building in TypeScript and the experience from WODs, I’m confident that I can find a successful and fulfilling career.
