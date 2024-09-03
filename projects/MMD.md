@@ -15,4 +15,8 @@ MMD, or MikuMikuDance, is a 3D animation software originally created for animati
   <img width="600px" src="../img/MMD/YT Homepage.png" class="img-thumbnail" >
 </div>
 
-I started making MMD videos as a hobby, drawn by the creative freedom and the ability to bring my ideas to life in a visual format. While it began as a fun and engaging way to spend my free time, I've come to realize that the skills and knowledge I've gained through MMD could potentially be applied to more significant projects. Whether it's creating more complex animations, or coding shaders in a language HLSL, I'm excited about what I can do with it.
+I started making MMD (MikuMikuDance) videos as a hobby, initially drawn by the creative freedom it offers and the ability to bring my ideas to life in a visual format. What began as a fun and engaging way to spend my free time quickly became a passion, allowing me to explore various aspects of animation and digital art. The process of creating these videos has been both challenging and rewarding, offering me a unique outlet for my creativity.
+
+As I’ve delved deeper into MMD, I’ve realized that the skills and knowledge I’m acquiring could be applied to more significant projects. The experience has not only enhanced my understanding of animation but also opened up possibilities in areas like coding shaders in HLSL (High-Level Shading Language) and creating more complex animations. This has expanded my horizons, making me excited about the potential for growth in this field.
+
+Looking forward, I am eager to see where this journey with MMD takes me. Whether it’s refining my current skills or exploring new technologies, I’m committed to pushing the boundaries of what I can achieve with animation. You can check out my latest creations on my YouTube channel: [@RearuMMD](https://www.youtube.com/@RearuMMD).
