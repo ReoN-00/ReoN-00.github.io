@@ -7,7 +7,7 @@ date: 2019 - Today
 published: true
 labels:
   - 3D Graphics
-summary: "I have a YouTube channel that I post videos I made using 3D CG softwares."
+summary: "I have been studying 3D modeling using Blender."
 ---
 <div class="text-center p-4">
   <img width="600px" src="../img/Blender 7.png" class="img-thumbnail" >
