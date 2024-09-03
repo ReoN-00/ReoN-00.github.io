@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Reo Nagahama",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ReoN-00.png",
+    "email": "reon@hawaii.edu",
+    "phone": "831-287-4372",
+    "website": "https://ReoN-00.github.io",
+    "summary": "I am a Junior majoring in Computer Science at University of Hawaii at Manoa. I am aiming to work in a gaming industry.",
+    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ReoN-00", "url": "http://github.com/ReoN-00" },
+      { "network": "linkedin", "username": "reo-nagahama-091975325", "url": "https://www.linkedin.com/in/reo-nagahama-091975325/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics" },
+    { "name": "Game Development" },
+    { "name": "Video Editing" },
   ],
   "skills": [
     {
