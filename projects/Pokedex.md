@@ -15,3 +15,6 @@ summary: "I wrote a C code for a simple version of Pokedex. You can enter the na
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
+
+This program was made as one of the project for my ICS class during my sophomore year.
+It is not a complex program or anything, but I would like to develop something that uses this knowledges in a future.
