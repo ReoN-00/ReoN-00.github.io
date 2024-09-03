@@ -9,7 +9,7 @@ labels:
   - Career Choice
   - Learning
 ---
-
+<img width="300px" class="rounded float-start pe-4" src="../img/WIP Quote.jpg">
 Choosing a career is one of the most significant decisions in someone's life. I was born in Fukuoka, Japan, and moved to Hawaii during my freshman year of high school. This brought both challenges and opportunities in what I want for my future. Adapting to a new environment while thinking about my future was always tough for me.
 
 In Highschool, I discovered coding, a field that became my interest. Coding was tool that I could build and create, which resonated deeply with me. As I continue to study, I started thinking about my future and where I wanted to apply these skills. Japan, my birthplace, naturally felt like the right place to pursue my career. The idea of contributing to Japan’s technological advancements and being part of that innovative environment motivates me to push forward.
