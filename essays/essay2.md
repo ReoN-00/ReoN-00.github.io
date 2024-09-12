@@ -1,23 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Am I suited for this"
+title: "Smart Questions, Smart Engineers"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-03
+date: 2024-09-11
 published: true
 labels:
-  - Career Choice
+  - Asking smart questions
   - Learning
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/WIP Quote.jpg">
-Choosing a career is a big decision that affects our lives in many ways. My journey started in Fukuoka, Japan, but took a big turn when I moved to Hawaii during my freshman year of high school. Moving to a new country was hard, and it made me think a lot about what I wanted to do in the future.
+Asking smart questions is crucial for software engineers because it reflects a well-thought-out problem and allows others to provide efficient and accurate answers. Smart questions demonstrate an understanding of the problem space and respect for the time of those who answer.
 
-When I moved, I had to get used to a new culture, language, and school system. During this time, I found a passion for coding. Coding let me create things which was exciting. As I learned more, I began thinking about working in technology in Japan, where innovation is strong.
+In the "not-so-smart" question found here, the user simply posts their homework without providing a clear description of the problem or what they have tried. The title, "C File Homework," gives no context or specific inquiry, which makes it hard for others to understand what assistance is needed. Consequently, this question received many downvotes and few responses because it demands too much effort for others to dissect the entire code and find the issues.
 
-However, I also have some doubts. Japanese companies have high standards and can be very demanding. I sometimes wonder if I have the skills needed to meet those expectations. This worry is increased because my current experience with JavaScript is not so good. Learning TypeScript, which is built on JavaScript, feels like starting from scratch for me.
+In contrast, the smart question found here clearly describes a specific problem: "How do I undo the most recent local commits in Git?" The title itself conveys what the asker needs, and the question is succinct, well-structured, and easy to understand. The user explains their situation, which enables others to respond quickly and directly. This question gained many upvotes and several useful responses.
 
-Workouts of the Day (WODs), which simulates real-world coding problems under time pressure. This can be stressful for me because I prefer having more time to think before I start typing. Despite this, WODs are a good way to practice coding skills and solve problems quickly.
-
-Learning TypeScript and doing WODs have been tough but helpful. TypeScript has improved my coding skills and taught me about modern JavaScript features, while WODs have helped me get better at solving problems quickly. Even though I’m unsure about working in Japan, these experiences have shown me that with hard work and learning, I can face these challenges and succeed in my career.
-
-My move from Fukuoka to Hawaii has given me a special perspective that I can use wherever I work, whether in Japan or elsewhere. The path may be difficult, but with the skills I’m building in TypeScript and the experience from WODs, I’m confident that I can find a successful and fulfilling career.
+Smart questions like the second one foster meaningful discussions and help the asker and others learn. In software engineering, where efficiency and problem-solving are key, asking well-formulated questions is an essential skill that leads to better collaboration and faster issue resolution.
