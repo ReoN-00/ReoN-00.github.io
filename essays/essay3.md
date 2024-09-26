@@ -9,7 +9,7 @@ labels:
   - Learning  
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="/Users/rearu/GitHub/ReoN-00/ReoN-00.github.io/img/codingStandards.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/codingStandards.png">
 
 ## The Importance of Coding Standards
 
