@@ -1,12 +1,13 @@
 ---
 layout: essay  
 type: essay  
-title: "Reflect on Coding Standards"  
-date: 2024-09-25  
+title: "Building Better Websites: The Advantages of UI Frameworks"  
+date: 2024-10-09  
 published: true  
 labels:  
   - Bootstrap5
-  - Learning  
+  - Learning
+  - UI Frameworks
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/essay4/lets-talk-about-bootstrap.png">
