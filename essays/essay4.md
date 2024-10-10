@@ -9,7 +9,7 @@ labels:
   - Learning  
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="">
+<img width="300px" class="rounded float-start pe-4" src="../img/essay4/lets-talk-about-bootstrap.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To build a basic website, you would need to know HTML/CSS and maybe JavaScript for interactivity. Once you're familiar with these basics, you might wonder why you’d need to learn a UI framework like Bootstrap 5. Can’t you achieve the same results with just HTML and CSS? While that's a fair question, UI frameworks offer several advantages that make them worth the effort.
 
