@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea: UH Manoa Community Marketplace"
 date: 2024-11-04
+published: true
 labels:
   - Software Engineering
   - Nextjs
