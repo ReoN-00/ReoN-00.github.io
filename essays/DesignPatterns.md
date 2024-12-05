@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "The Recipe for Coding Success"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-04
 published: true
@@ -11,7 +11,7 @@ labels:
 ---
 
 
-*The Recipe for Coding Success*
+## The Recipe for Coding Success
 
 <img width="100px" class="rounded float-start pe-4" src="../img/DP/istockphoto-1477430966-612x612.jpg">
 
