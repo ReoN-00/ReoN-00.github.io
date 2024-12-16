@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Reflecting on Use of AI in ICS314"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-16
+published: true
+labels:
+  - Engineering
+  - AI
+  - Learning
+---
+
 # Reflection on Using AI in ICS 314
 
 ## Introduction
