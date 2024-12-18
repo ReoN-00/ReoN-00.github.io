@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "Reflection on Software Engineering Concepts"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-17
+published: true
+labels:
+  - Software Engineering
+---
+
 ### Reflection on Software Engineering Concepts
 
 During this course, I have gained a deeper understanding of software engineering, which extends far beyond web application development. While creating web applications was a major component of our assignments, the broader lessons revolved around applying fundamental software engineering principles. Among these, I found **Agile Project Management**, **Configuration Management**, and **Design Patterns** to be particularly impactful. These concepts transcend web development and provide a foundation for approaching any software-related project systematically and efficiently.
