@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/StudyBuddy2.png
+image: img/StudyBuddy3.png
 title: "Study Buddy"
 date: 2024/12/03 - 2024/12/19
 published: true
