@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Blender 5.png
+image: img/StudyBuddy2.png
 title: "Study Buddy"
 date: 2024/12/03 - 2024/12/19
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "I have worked with team to work on a project to create an website where people can find study groups in college."
 ---
 <div class="text-center p-4">
-  <img width="600px" src="../img/Blender 7.png" class="img-thumbnail" >
+  <img width="600px" src="../img/StudyBuddy2.png" class="img-thumbnail" >
 </div>
 
 # Study Buddy: Connecting Students for Academic Success
