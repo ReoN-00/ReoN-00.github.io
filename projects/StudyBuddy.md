@@ -15,11 +15,26 @@ summary: "I have worked with team to work on a project to create an website wher
   <img width="600px" src="../img/Blender 7.png" class="img-thumbnail" >
 </div>
 
-Since 2021, I have been immersing myself in the world of 3D modeling using Blender. My journey began with simple shapes and basic modeling techniques, gradually advancing to more complex projects. Through consistent practice, I've developed a strong foundation in creating detailed models, applying textures, and mastering the art of rendering.
+# Study Buddy: Connecting Students for Academic Success
 
-My learning process has been primarily self-guided, utilizing a wide array of online tutorials, forums, and community resources. This approach has allowed me to learn at my own pace, experimenting with different tools and techniques within Blender. I’ve tackled challenges such as UV mapping, sculpting, and rigging, gaining confidence in my ability to bring my ideas to life.
+## Overview
+Study Buddy is a web application designed to connect students looking for study partners. The platform addresses the common challenge of studying alone by fostering collaboration and productivity. By providing a space for students to find and schedule study sessions, Study Buddy promotes academic networking and accountability.
 
-Over the years, my experience with Blender has expanded beyond just technical skills. It has also deepened my understanding of design principles and 3D aesthetics. Each project has been an opportunity to refine my workflow, explore creative solutions, and push the boundaries of what I can achieve with this powerful tool.
+## Features and Goals
+The primary goal of Study Buddy is to make it easier for students to find study partners and schedule study sessions. By bridging the gap between individual and collaborative learning, the platform helps students enhance their understanding of course material while building meaningful connections.
 
-Here is a link to my dropbox with images made in blender.
-[Dropbox](https://www.dropbox.com/scl/fo/6igojo0ete0llq7sa6wqf/AIhxgaKuE_YIp3D-xx0-GNc?rlkey=o1u05nh8rwnpobdblynsfpji7&st=tp87fbui&dl=0)
+## Technologies Used
+- **React**: Utilized for component-based UI implementation and efficient routing. React's modular architecture enabled scalable and maintainable code.
+- **React Bootstrap**: Simplified the UI design process with pre-built, responsive components, ensuring an intuitive and visually appealing layout.
+- **PostgreSQL and NeonDB**: Provided a real-time database solution for secure and fast data storage and retrieval, supporting features like user profiles and session schedules.
+- **AWS S3**: Used for cloud storage, specifically for user-uploaded images like profile pictures, enhancing user engagement.
+- **Vercel**: Enabled seamless deployment, making the application accessible to users with high availability and minimal downtime.
+
+## Impact and Outcomes
+Study Buddy solves a critical problem in academic life: the lack of study partners. By offering a user-friendly platform, the application empowers students to collaborate effectively, improving productivity and fostering academic success.
+
+This project also allowed me to enhance my technical skills, particularly in full-stack development and deployment workflows. Leveraging modern technologies and focusing on user-centric design made this an incredibly rewarding experience.
+
+## Conclusion
+Study Buddy showcases how technology can address real-world problems. With its intuitive interface and reliable backend, it has the potential to make a positive impact on students' academic journeys. I’m excited to see how this platform can continue to support collaboration and success in the future.
+
