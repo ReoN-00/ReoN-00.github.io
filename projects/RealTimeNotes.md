@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MMD_Thumbnail.png
+image: img/RealTimeNotes.png
 title: "RealTimeNotes"
 date: 2025
 published: true
