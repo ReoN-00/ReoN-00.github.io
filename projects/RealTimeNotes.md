@@ -17,7 +17,9 @@ RealTimeNotes is a web application designed to enable **real-time, collaborative
 Built using **Firebase Realtime Database**, **JavaScript**, **HTML/CSS**, and modern frontend development practices, the app allows multiple users to view and edit notes simultaneously with instantaneous updates across all connected clients.
 
 <div class="text-center p-4">
-  <img width="600px" src=".." class="img-thumbnail">
+  <video width="600" controls>
+    <source src="../videos/RealTimeNotes.mp4" type="video/mp4">
+  </video>
 </div>
 
 I created RealTimeNotes as a way to explore real-time web technologies and to deepen my understanding of how collaborative applications handle synchronization, event handling, and concurrency. What started as a simple practice project quickly grew into a more technical challenge, giving me hands-on experience with:
