@@ -25,7 +25,7 @@ I created RealTimeNotes as a way to explore real-time web technologies and to de
 - Real-time data synchronization using Firebase  
 - Handling multi-user updates and conflict avoidance  
 - Implementing a responsive and intuitive UI  
-- Writing clean, modular JavaScript for scalable web apps  
+- Writing clean, modular JavaScript
 
 Throughout development, I worked to optimize the data flow, improve performance, and ensure smooth user experiences even when multiple users edit the same document.
 
